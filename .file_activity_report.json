@@ -1,0 +1,166 @@
+{
+    "top_n_overall": [
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/package.json",
+            "count": 274
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/tsconfig.json",
+            "count": 144
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/.gitignore",
+            "count": 141
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/index.html",
+            "count": 89
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/style.css",
+            "count": 87
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/eslint.config.mjs",
+            "count": 84
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/post_process_status.lock",
+            "count": 82
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/vite.config.js",
+            "count": 82
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/.status",
+            "count": 78
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/public/vite.svg",
+            "count": 78
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/javascript.svg",
+            "count": 78
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/main.tsx",
+            "count": 65
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/App.tsx",
+            "count": 65
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/features/MetricEntry.tsx",
+            "count": 64
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/counter.js",
+            "count": 63
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/main.js",
+            "count": 63
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/package-lock.json",
+            "count": 60
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/features/Dashboard.tsx",
+            "count": 57
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/post_process.log",
+            "count": 56
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/features/Trends.tsx",
+            "count": 54
+        }
+    ],
+    "top_n_last_10_min_accessed": [
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/package.json",
+            "count": 214
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/tsconfig.json",
+            "count": 88
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/.gitignore",
+            "count": 85
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/index.html",
+            "count": 31
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/style.css",
+            "count": 29
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/eslint.config.mjs",
+            "count": 28
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/post_process_status.lock",
+            "count": 26
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/vite.config.js",
+            "count": 26
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/counter.js",
+            "count": 23
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/main.js",
+            "count": 23
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/.status",
+            "count": 22
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/public/vite.svg",
+            "count": 22
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/javascript.svg",
+            "count": 22
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/features/MetricEntry.tsx",
+            "count": 18
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/util/healthData.ts",
+            "count": 15
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/App.tsx",
+            "count": 13
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/features/Trends.tsx",
+            "count": 12
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/ui/ChartLine.tsx",
+            "count": 12
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/main.tsx",
+            "count": 11
+        },
+        {
+            "file": "/home/kavia/workspace/code-generation/health-metrics-tracker-ed67d343/vite_frontend/src/features/Dashboard.tsx",
+            "count": 9
+        }
+    ]
+}
